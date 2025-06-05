@@ -87,7 +87,7 @@ if (isMobile) {
             bottom: 0;
             left: 0;
             right: 0;
-            background: linear-gradient(to top, rgba(0,0,0,0.9), rgba(0,0,0,0.7), transparent);
+            background: linear-gradient(to top, rgba(0,0,0,0.9) 100%, rgba(0,0,0,0.7) 0%, transparent);
             color: white;
             padding: 12px 8px 8px 8px;
             font-size: 14px;  /* Increased from 11px */
